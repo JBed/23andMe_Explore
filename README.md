@@ -1,2 +1,4 @@
-# 23andMe_Explore
+23andMe_Explore
+====
+
 Parse and explore your 23andMe results 
